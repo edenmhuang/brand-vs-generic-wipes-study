@@ -1,4 +1,4 @@
-# Math 200 — Elementary Statistics & Probability
+# Math 200: Elementary Statistics & Probability
 
 A collection of datasets used for my Elementary Statistics and 
 Probability course at Skyline College. The course covered 
