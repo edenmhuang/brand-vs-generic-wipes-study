@@ -1,14 +1,13 @@
-# Math 200: Elementary Statistics & Probability (Datasets used for Elementary Statistics and Probability at Skyline College)
+## Honors Project Poster
+
+![Brand vs. Generic Sanitizer Wipes Effectiveness Study](brand_vs_generic_wipes_study_poster.png)
+
+# Math 200: Elementary Statistics & Probability
 
 A collection of datasets used for my Elementary Statistics and 
 Probability course at Skyline College. The course covered 
 statistical concepts using Python and Pandas alongside 
 traditional hand-written assignments.
-
-## Honors Project Poster
-
-![Brand vs. Generic Sanitizer Wipes Effectiveness Study](brand_vs_generic_wipes_study_poster.png)
-
 
 ## Datasets
 
