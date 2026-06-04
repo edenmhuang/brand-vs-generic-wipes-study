@@ -5,6 +5,11 @@ Probability course at Skyline College. The course covered
 statistical concepts using Python and Pandas alongside 
 traditional hand-written assignments.
 
+## Honors Project Poster
+
+![Brand vs. Generic Sanitizer Wipes Effectiveness Study](brand_vs_generic_wipes_study_poster.png)
+
+
 ## Datasets
 
 | File | Description |
